@@ -6,14 +6,16 @@
 
 #3 install: pip install django 
 
-#4 create project: django-admin startproject name .
+#4 install: pip install cx-Oracle                     
 
-#5 to check: python manage.py migrate
+#5 create project: django-admin startproject name .
 
-#6 python manage.py runserver
+#6 to check: python manage.py migrate
+
+#7 python manage.py runserver
 
 
-#7 create app: python manage.py startapp appname
+#8 create app: python manage.py startapp appname
 
 # version 
 
